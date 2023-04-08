@@ -1,0 +1,1 @@
+select e.salary*5 as sal from employees e
